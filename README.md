@@ -8,4 +8,4 @@ I'm a developer who's passionate about **tech** and **software development**. I 
 - ⚡ Fun fact: I love making random things that just works.
 
 ## Get in touch:
-- [LinkedIn]([https://www.linkedin.com/in/yourname/](https://www.linkedin.com/in/allen-nguyen-0933a3251/))
+- [LinkedIn](https://www.linkedin.com/in/allen-nguyen-0933a3251/)
