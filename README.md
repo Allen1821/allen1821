@@ -18,7 +18,7 @@ I'm a developer who's passionate about **tech** and **software development**. I 
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Allen1821&layout=compact&theme=dark&hide_border=true)
 
-## 🔥 Contribution Graph
+## Contribution Graph PLEASE DON'T JUDGE IM STARTING 
 ![GitHub Contribution Graph](https://github-readme-activity-graph.vercel.app/graph?username=Allen1821&theme=react-dark&hide_border=true)
 
 ## 💻 Tech Stack
