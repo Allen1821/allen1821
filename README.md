@@ -48,7 +48,7 @@ Real-time voice channel analytics with Matplotlib visualizations
 
 ### 🌐 Interactive Photo Booth
 Web-based photo editor with custom filters
-- **HTML/CSS** • **JavaScript** • **Canvas API**
+- **HTML/CSS** • **JavaScript** • 
 - Responsive design with printable output
 
 </td>
